@@ -1,4 +1,4 @@
-# EBSGreat_Circle_Distance_form-l-
+# EBSGreat Circle Distance Formülü
 
 Great Circle Distance formülü
 <hr>
